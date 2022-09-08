@@ -17,3 +17,4 @@ Hvor god forståelse for git og github fra 1-5?
 
 <!-- Bilder --->
 <img src="https://i.imgur.com/Knyy5g2.jpg" alt="drawing" width="250"/> <img src="https://i.imgur.com/QzvGwnX.jpg" alt="drawing" width="250"/>
+djwepfw
